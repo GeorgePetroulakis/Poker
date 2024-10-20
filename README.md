@@ -1,4 +1,4 @@
-This project uses the language python.
+This project is developed in Python.
 
 The poker simulation program integrates a Monte Carlo simulation functionality to estimate winning probabilities based on player hands and community cards. 
 
