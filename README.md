@@ -1,3 +1,5 @@
+Uses the language python.
+
 The poker simulation program integrates a Monte Carlo simulation functionality to estimate winning probabilities based on player hands and community cards. 
 
 The Player class tracks individual player statistics and actions, while the PokerGame class orchestrates the game flow, including player interactions and 
